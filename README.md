@@ -1,4 +1,5 @@
 ## Relaxer App
+live- https://xenodochial-perlman-7c57c5.netlify.app
 
 A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
 
